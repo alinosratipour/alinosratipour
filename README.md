@@ -6,7 +6,7 @@
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="coding" width="400" align="right"  >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinosratipour&label=Profile%20views&color=0e75b6&style=flat" alt="alinosratipour" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently developing fullstack e-commerce app in **Node TypeScript** with **React** **Apollo Server**
 
 - 👨‍💻 All of my projects are available at [https://alinosrati.netlify.app/](https://alinosrati.netlify.app/)
 
